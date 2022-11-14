@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">EjercicioAndroid</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Editar">Editar Perfil</string>
 </resources>
